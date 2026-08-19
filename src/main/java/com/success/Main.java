@@ -39,7 +39,7 @@ import static java.lang.Thread.sleep;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        System.out.println("DEV分支");
+        System.out.println("master分支");
 //        File file = new File("D:/Test/test.txt");
 //        File src = new File("D:/Test/A/a");
 //        File dest = new File("D:/Test/B");

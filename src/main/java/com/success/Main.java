@@ -41,15 +41,8 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
         System.out.println("master分支");
-//        File file = new File("D:/Test/test.txt");
-//        File src = new File("D:/Test/A/a");
-//        File dest = new File("D:/Test/B");
-//        Predicate<String> predicate ;
-//        List<String> context = FileUtil.readLines(file, StandardCharsets.UTF_8);
-//        System.out.println(context);
+        System.out.println("dev分支");
 //
-//
-//        System.out.println();
 //        File file = FileUtil.rename(src,"new",true);
 
 //        File file =	FileUtil.copyFilesFromDir( src,  dest, false);

@@ -45,6 +45,9 @@ public class Main {
         Predicate<String> predicate ;
         List<String> context = FileUtil.readLines(file, StandardCharsets.UTF_8);
         System.out.println(context);
+
+
+        System.out.println();
 //        File file = FileUtil.rename(src,"new",true);
 
 //        File file =	FileUtil.copyFilesFromDir( src,  dest, false);

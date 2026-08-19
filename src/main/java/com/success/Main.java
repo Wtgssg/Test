@@ -41,6 +41,6 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("dev分支");
         System.out.println("0.0.1 dev");
-        System.out.println("error");
+        System.out.println("New Big error");
     }
 }

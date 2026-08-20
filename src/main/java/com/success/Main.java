@@ -42,5 +42,6 @@ public class Main {
         System.out.println("0.0.1");
         System.out.println("新增评价:夯");
         System.out.println("我完成了一次评价:拉完了");
+        System.out.println("用户C完成了一次评价:不如牛来");
     }
 }

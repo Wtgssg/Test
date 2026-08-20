@@ -42,5 +42,6 @@ public class Main {
         System.out.println("dev分支");
         System.out.println("0.0.1 dev");
         System.out.println("New Big error");
+        System.out.println("New Small error");
     }
 }

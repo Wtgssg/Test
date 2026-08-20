@@ -39,7 +39,8 @@ import static java.lang.Thread.sleep;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        System.out.println("0.1.1");
+        System.out.println("0.0.1");
+        System.out.println("新增评价:夯");
         System.out.println("我完成了一次评价:拉完了");
     }
 }

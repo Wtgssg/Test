@@ -39,8 +39,7 @@ import static java.lang.Thread.sleep;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        System.out.println("dev分支");
-        System.out.println("0.0.1 dev");
-        System.out.println("New Big error");
+        System.out.println("0.0.1");
+        System.out.println("新增评价:夯");
     }
 }

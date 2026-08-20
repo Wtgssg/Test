@@ -44,6 +44,6 @@ public class Main {
         System.out.println("我完成了一次评价:拉完了");
         System.out.println("用户C完成了一次评价:不如牛来");
         System.out.println("用户D完成了一次评价:不如749");
-
+        System.out.println("用户E完成了一次评价:不如上海堡垒");
     }
 }

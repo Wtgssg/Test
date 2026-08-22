@@ -48,6 +48,5 @@ public class Main {
         System.out.println("用户G完成了一次评价:很一般");
         System.out.println("用户H完成了一次评价:111");
         System.out.println("用户I完成了一次评价:666");
-        System.out.println("用户J完成了一次评价:?..");
     }
 }
